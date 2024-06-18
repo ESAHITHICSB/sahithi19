@@ -1,0 +1,42 @@
+.img {
+    background:#D3F2E9;
+}
+.xyz {
+  text-align:center;
+  font-family: 'roboto';
+  font-style: normal;
+  font-weight: 80px;
+  font-size: 70px;
+}
+.abc{
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: 50px;
+  font-style: oblique;
+  font-size: 30px;
+  padding: 30px;
+  padding-left:10px;
+  padding-right: 10px;
+}
+.h3 {
+  font-size: 33px;
+  display: horizontally;
+}
+.xyz1 {
+  text-align:center;
+  font-family: 'roboto';
+  font-style: normal;
+  font-weight: 80px;
+  font-size: 50px;
+}
+.abc1{
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: 30px;
+  font-style: italic;
+  font-size: 30px;
+  padding: 30px;
+  padding-left:10px;
+  padding-right: 10px;
+}
+.navbar a {
+  margin-right:30px;
+}
